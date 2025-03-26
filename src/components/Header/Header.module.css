@@ -27,5 +27,8 @@
 }
 
 .right img {
+  /* display: flex;
+  justify-content: space-evenly;
+  gap: 30px; */
   width: 400px;
 }
